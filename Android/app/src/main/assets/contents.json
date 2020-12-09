@@ -1,118 +1,229 @@
 {
-  "android_play_store_link": "",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.chipsley.whatsappsticker",
   "ios_app_store_link": "",
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
-      "image_data_version":"1",
-      "avoid_cache":false,
-      "publisher_email":"",
-      "publisher_website": "",
+      "name": "Chipsley Stickers for WhatsApp",
+      "publisher": "Chipsley (S) Pte Ltd",
+      "tray_image_file": "tray_Chipsley.png",
+      "image_data_version":"3",
+      "avoid_cache": true,
+      "publisher_email":"hellochipsley@gmail.com",
+      "publisher_website": "https://www.facebook.com/iamchipsley/",
       "privacy_policy_website": "",
       "license_agreement_website": "",
+      "android_play_store_link": "https://play.google.com/store/apps/details?id=com.chipsley.whatsappsticker",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "emoji_20.webp"
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "emoji_2.webp"
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "emoji_3.webp"
         },
         {
-          "image_file": "04_Cuppy_sad.webp",
-          "emojis": ["😩","😰"]
+          "image_file": "emoji_4.webp"
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
-          "emojis": ["😭","💧"]
+          "image_file": "emoji_5.webp"
         },
         {
-          "image_file": "06_Cuppy_love.webp",
-          "emojis": ["😍","♥"]
+          "image_file": "emoji_6.webp"
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
-          "emojis": ["💔","👎"]
+          "image_file": "emoji_7.webp"
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
-          "emojis": ["😍","💑"]
+          "image_file": "emoji_8.webp"
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
-          "emojis": ["😘","🍪"]
+          "image_file": "emoji_9.webp"
         },
         {
-          "image_file": "10_Cuppy_hmm.webp",
-          "emojis": ["🤔","😐"]
+          "image_file": "emoji_10.webp"
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
-          "emojis": ["😱","😵"]
+          "image_file": "emoji_11.webp"
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
-          "emojis": ["😡","😠"]
+          "image_file": "emoji_12.webp"
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
-          "emojis": ["❓","🤔"]
+          "image_file": "emoji_13.webp"
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
-          "emojis": ["🌈","😜"]
+          "image_file": "emoji_14.webp"
         },
         {
-          "image_file": "15_Cuppy_bluescreen.webp",
-          "emojis": ["💻","😩"]
+          "image_file": "emoji_15.webp"
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
-          "emojis": ["😡","😤"]
+          "image_file": "emoji_16.webp"
         },
         {
-          "image_file": "17_Cuppy_tired.webp",
-          "emojis": ["😩","😨"]
+          "image_file": "emoji_18.webp"
         },
         {
-          "image_file": "18_Cuppy_workhard.webp",
-          "emojis": ["💻","🌃"]
+          "image_file": "emoji_19.webp"
         },
         {
-          "image_file": "19_Cuppy_shine.webp",
-          "emojis": ["🎉","✨"]
+          "image_file": "Alamak.webp"
         },
         {
-          "image_file": "20_Cuppy_disgusting.webp",
-          "emojis": ["🤮","👎"]
+          "image_file": "Bubble Tea.webp"
         },
         {
-          "image_file": "21_Cuppy_hi.webp",
-          "emojis": ["🖐","🙋"]
+          "image_file": "Cry.webp"
         },
         {
-          "image_file": "22_Cuppy_bye.webp",
-          "emojis": ["🖐","👋"]
+          "image_file": "Good Morning.webp"
         },
         {
-          "image_file": "23_Cuppy_greentea.webp",
-          "emojis": ["🍵","😌"]
+          "image_file": "Goodnight.webp"
         },
         {
-          "image_file": "24_Cuppy_phone.webp",
-          "emojis": ["📱","😦"]
+          "image_file": "In Love.webp"
         },
         {
-          "image_file": "25_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "Kiss.webp"
+        },
+        {
+          "image_file": "Laugh.webp"
+        },
+        {
+          "image_file": "OH NO.webp"
+        },
+        {
+          "image_file": "Oops.webp"
+        },
+        {
+          "image_file": "Sorry.webp"
+        },
+        {
+          "image_file": "Super Warm.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Dappy Stickers for WhatsApp",
+      "publisher": "Chipsley (S) Pte Ltd",
+      "tray_image_file": "tray_Dappy.png",
+      "image_data_version":"1",
+      "avoid_cache": true,
+      "publisher_email":"hellochipsley@gmail.com",
+      "publisher_website": "https://www.facebook.com/iamchipsley/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "android_play_store_link": "https://play.google.com/store/apps/details?id=com.chipsley.whatsappsticker",
+      "stickers": [
+        {
+          "image_file": "Dappy Stickers July_Dappy and Daddy.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Dozed off.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Floatie.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Good Morning.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Goodnight.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Happy.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Heart Fingers.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Homework.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Hungry.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Love.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Shocked.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Shy.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Sorry.webp"
+        },
+        {
+          "image_file": "Dappy Stickers July_Sulk.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Chipsley Christmas Stickers for WhatsApp",
+      "publisher": "Chipsley (S) Pte Ltd",
+      "tray_image_file": "tray_christmas.png",
+      "image_data_version":"1",
+      "avoid_cache": true,
+      "publisher_email":"hellochipsley@gmail.com",
+      "publisher_website": "https://www.facebook.com/iamchipsley/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "android_play_store_link": "https://play.google.com/store/apps/details?id=com.chipsley.whatsappsticker",
+      "stickers": [
+        {
+          "image_file": "Christmas - Ambush Dappy.webp"
+        },
+        {
+          "image_file": "Christmas - Chipsley Thumbs Up.webp"
+        },
+        {
+          "image_file": "Christmas - Dappy finger heart.webp"
+        },
+        {
+          "image_file": "Christmas - Dappy Treat.webp"
+        },
+        {
+          "image_file": "Christmas - Happy Holidays.webp"
+        },
+        {
+          "image_file": "Christmas - Happy.webp"
+        },
+        {
+          "image_file": "Christmas - Ho Ho Ho.webp"
+        },
+        {
+          "image_file": "Christmas - Hot Cocoa.webp"
+        },
+        {
+          "image_file": "Christmas - Merry Christmas.webp"
+        },
+        {
+          "image_file": "Christmas - Mistletoe.webp"
+        },
+        {
+          "image_file": "Christmas - Present for me.webp"
+        },
+        {
+          "image_file": "Christmas - Snowball on Dappy.webp"
+        },
+        {
+          "image_file": "Christmas - Snowglobe Kiss.webp"
+        },
+        {
+          "image_file": "Christmas - Stuck on Roof.webp"
+        },
+        {
+          "image_file": "Christmas - Throw Snowball.webp"
+        },
+        {
+          "image_file": "Christmas - Where is my Present.webp"
         }
       ]
     }
