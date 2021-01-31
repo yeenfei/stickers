@@ -227,9 +227,8 @@
         }
       ]
     },
-
     {
-      "identifier": "4",
+      "identifier": "5",
       "name": "Chinese New Year Stickers for WhatsApp",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_cny.png",
@@ -242,28 +241,28 @@
       "android_play_store_link": "https://play.google.com/store/apps/details?id=com.chipsley.whatsappsticker",
       "stickers": [
         {
-          "image_file": "Children in basket.webp"
+          "image_file": "HK - Children in basket.webp"
         },
         {
-          "image_file": "Chipsley Cat.webp"
+          "image_file": "HK - Chipsley Cat.webp"
         },
         {
-          "image_file": "Couple with Riches.webp"
+          "image_file": "HK - Couple with Riches.webp"
         },
         {
-          "image_file": "Give Ang pao.webp"
+          "image_file": "HK - Give Ang pao.webp"
         },
         {
-          "image_file": "Give Oranges.webp"
+          "image_file": "HK - Give Oranges.webp"
         },
         {
-          "image_file": "Happy Niu Year.webp"
+          "image_file": "HK - Happy Niu Year.webp"
         },
         {
-          "image_file": "hong bao na lai.webp"
+          "image_file": "HK - hong bao na lai.webp"
         },
         {
-          "image_file": "Kids on oranges.webp"
+          "image_file": "HK - Kids on oranges.webp"
         }
       ]
     },
