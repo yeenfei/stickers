@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Chipsley Stickers for WhatsApp",
+      "name": "Chipsley Expression",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_Chipsley.png",
       "image_data_version":"3",
@@ -109,7 +109,7 @@
     },
     {
       "identifier": "2",
-      "name": "Dappy Stickers for WhatsApp",
+      "name": "Dappy Expression",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_Dappy.png",
       "image_data_version":"1",
@@ -166,7 +166,7 @@
     },
     {
       "identifier": "3",
-      "name": "Christmas Stickers for WhatsApp",
+      "name": "Christmas Edition",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_christmas.png",
       "image_data_version":"1",
@@ -229,7 +229,7 @@
     },
     {
       "identifier": "5",
-      "name": "Chinese New Year Stickers for WhatsApp",
+      "name": "CNY Edition - (Traditional)",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_cny.png",
       "image_data_version":"1",
@@ -268,7 +268,7 @@
     },
     {
       "identifier": "6",
-      "name": "Valentines Stickers for WhatsApp",
+      "name": "Vday Edition",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_valentines.png",
       "image_data_version":"1",

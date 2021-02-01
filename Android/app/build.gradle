@@ -10,8 +10,8 @@ android {
         applicationId "com.chipsley.whatsappsticker"
         minSdkVersion 15
         targetSdkVersion 29
-        versionCode 6
-        versionName '1.4'
+        versionCode 7
+        versionName '1.5'
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.

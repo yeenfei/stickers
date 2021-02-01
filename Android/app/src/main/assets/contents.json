@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Chipsley Stickers for WhatsApp",
+      "name": "Chipsley Expression",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_Chipsley.png",
       "image_data_version":"3",
@@ -109,7 +109,7 @@
     },
     {
       "identifier": "2",
-      "name": "Dappy Stickers for WhatsApp",
+      "name": "Dappy Expression",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_Dappy.png",
       "image_data_version":"1",
@@ -166,7 +166,7 @@
     },
     {
       "identifier": "3",
-      "name": "Christmas Stickers for WhatsApp",
+      "name": "Christmas Edition",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_christmas.png",
       "image_data_version":"1",
@@ -227,10 +227,9 @@
         }
       ]
     },
-
     {
       "identifier": "4",
-      "name": "Chinese New Year Stickers for WhatsApp",
+      "name": "CNY Edition - (Simplified) ",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_cny.png",
       "image_data_version":"1",
@@ -268,8 +267,47 @@
       ]
     },
     {
+      "identifier": "5",
+      "name": "CNY Edition - (Traditional)",
+      "publisher": "Chipsley's World Co. Limited",
+      "tray_image_file": "tray_cny.png",
+      "image_data_version":"1",
+      "avoid_cache": true,
+      "publisher_email":"hellochipsley@gmail.com",
+      "publisher_website": "https://www.facebook.com/TheChipsleys",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "android_play_store_link": "https://play.google.com/store/apps/details?id=com.chipsley.whatsappsticker",
+      "stickers": [
+        {
+          "image_file": "HK - Children in basket.webp"
+        },
+        {
+          "image_file": "HK - Chipsley Cat.webp"
+        },
+        {
+          "image_file": "HK - Couple with Riches.webp"
+        },
+        {
+          "image_file": "HK - Give Ang pao.webp"
+        },
+        {
+          "image_file": "HK - Give Oranges.webp"
+        },
+        {
+          "image_file": "HK - Happy Niu Year.webp"
+        },
+        {
+          "image_file": "HK - hong bao na lai.webp"
+        },
+        {
+          "image_file": "HK - Kids on oranges.webp"
+        }
+      ]
+    },
+    {
       "identifier": "6",
-      "name": "Valentines Stickers for WhatsApp",
+      "name": "Vday Edition",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_valentines.png",
       "image_data_version":"1",
