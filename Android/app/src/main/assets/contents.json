@@ -288,53 +288,6 @@
       "name": "CNY Edition - (Simplified) ",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_cny.png",
-      "image_data_version":"1",
-      "avoid_cache": true,
-      "publisher_email":"hellochipsley@gmail.com",
-      "publisher_website": "https://www.facebook.com/TheChipsleys",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "android_play_store_link": "https://play.google.com/store/apps/details?id=com.chipsley.whatsappsticker",
-      "stickers": [
-        {
-          "image_file": "Children in basket.webp",
-          "emojis": ["\uD83D\uDE42"]
-        },
-        {
-          "image_file": "Chipsley Cat.webp",
-          "emojis": ["\uD83D\uDE42"]
-        },
-        {
-          "image_file": "Couple with Riches.webp",
-          "emojis": ["\uD83D\uDE42"]
-        },
-        {
-          "image_file": "Give Ang pao.webp",
-          "emojis": ["\uD83D\uDE42"]
-        },
-        {
-          "image_file": "Give Oranges.webp",
-          "emojis": ["\uD83D\uDE42"]
-        },
-        {
-          "image_file": "Happy Niu Year.webp",
-          "emojis": ["\uD83D\uDE42"]
-        },
-        {
-          "image_file": "hong bao na lai.webp",
-          "emojis": ["\uD83D\uDE42"]
-        },
-        {
-          "image_file": "Kids on oranges.webp",
-          "emojis": ["\uD83D\uDE42"]
-        }
-      ]
-    },
-    {
-      "identifier": "5",
-      "name": "CNY Edition - (Traditional)",
-      "publisher": "Chipsley's World Co. Limited",
-      "tray_image_file": "tray_cny.png",
       "image_data_version":"2",
       "avoid_cache": true,
       "publisher_email":"hellochipsley@gmail.com",
@@ -344,35 +297,82 @@
       "android_play_store_link": "https://play.google.com/store/apps/details?id=com.chipsley.whatsappsticker",
       "stickers": [
         {
-          "image_file": "HK - Children in basket.webp",
+          "image_file": "Children in basket_The Chipsleys CNY.webp",
           "emojis": ["\uD83D\uDE42"]
         },
         {
-          "image_file": "HK - Chipsley Cat.webp",
+          "image_file": "Chipsley Cat_The Chipsleys CNY.webp",
           "emojis": ["\uD83D\uDE42"]
         },
         {
-          "image_file": "HK - Couple with Riches.webp",
+          "image_file": "Couple with Riches_The Chipsleys CNY.webp",
           "emojis": ["\uD83D\uDE42"]
         },
         {
-          "image_file": "HK - Give Ang pao.webp",
+          "image_file": "Give Ang pao_The Chipsleys CNY.webp",
           "emojis": ["\uD83D\uDE42"]
         },
         {
-          "image_file": "HK - Give Oranges.webp",
+          "image_file": "Give Oranges_The Chipsleys CNY.webp",
           "emojis": ["\uD83D\uDE42"]
         },
         {
-          "image_file": "HK - Happy Niu Year.webp",
+          "image_file": "Happy Niu Year_The Chipsleys CNY.webp",
           "emojis": ["\uD83D\uDE42"]
         },
         {
-          "image_file": "HK - hong bao na lai.webp",
+          "image_file": "hong bao na lai_The Chipsleys CNY.webp",
           "emojis": ["\uD83D\uDE42"]
         },
         {
-          "image_file": "HK - Kids on oranges.webp",
+          "image_file": "Kids on oranges_The Chipsleys CNY.webp",
+          "emojis": ["\uD83D\uDE42"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "CNY Edition - (Traditional)",
+      "publisher": "Chipsley's World Co. Limited",
+      "tray_image_file": "tray_cny.png",
+      "image_data_version":"3",
+      "avoid_cache": true,
+      "publisher_email":"hellochipsley@gmail.com",
+      "publisher_website": "https://www.facebook.com/TheChipsleys",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "android_play_store_link": "https://play.google.com/store/apps/details?id=com.chipsley.whatsappsticker",
+      "stickers": [
+        {
+          "image_file": "HK - Children in basket_The Chipsleys CNY.webp",
+          "emojis": ["\uD83D\uDE42"]
+        },
+        {
+          "image_file": "HK - Chipsley Cat_The Chipsleys CNY.webp",
+          "emojis": ["\uD83D\uDE42"]
+        },
+        {
+          "image_file": "HK - Couple with Riches_The Chipsleys CNY.webp",
+          "emojis": ["\uD83D\uDE42"]
+        },
+        {
+          "image_file": "HK - Give Ang pao_The Chipsleys CNY.webp",
+          "emojis": ["\uD83D\uDE42"]
+        },
+        {
+          "image_file": "HK - Give Oranges_The Chipsleys CNY.webp",
+          "emojis": ["\uD83D\uDE42"]
+        },
+        {
+          "image_file": "HK - Happy Niu Year_The Chipsleys CNY.webp",
+          "emojis": ["\uD83D\uDE42"]
+        },
+        {
+          "image_file": "HK - hong bao na lai_The Chipsleys CNY.webp",
+          "emojis": ["\uD83D\uDE42"]
+        },
+        {
+          "image_file": "HK - Kids on oranges_The Chipsleys CNY.webp",
           "emojis": ["\uD83D\uDE42"]
         }
       ]
