@@ -7,7 +7,7 @@
       "name": "Chipsley Expression",
       "publisher": "Chipsley's World Co. Limited",
       "tray_image_file": "tray_Chipsley.png",
-      "image_data_version":"3",
+      "image_data_version":"4",
       "avoid_cache": true,
       "publisher_email":"hellochipsley@gmail.com",
       "publisher_website": "https://www.facebook.com/TheChipsleys",
@@ -15,10 +15,6 @@
       "license_agreement_website": "",
       "android_play_store_link": "https://play.google.com/store/apps/details?id=com.chipsley.whatsappsticker",
       "stickers": [
-        {
-          "image_file": "emoji_20.webp",
-          "emojis": ["😍"]
-        },
         {
           "image_file": "emoji_2.webp",
           "emojis": ["☹"]
@@ -40,10 +36,6 @@
           "emojis": ["❤"]
         },
         {
-          "image_file": "emoji_7.webp",
-          "emojis": ["❤"]
-        },
-        {
           "image_file": "emoji_8.webp",
           "emojis": ["❤"]
         },
@@ -56,23 +48,11 @@
           "emojis": ["❤"]
         },
         {
-          "image_file": "emoji_11.webp",
-          "emojis": ["❤"]
-        },
-        {
-          "image_file": "emoji_12.webp",
-          "emojis": ["❤"]
-        },
-        {
           "image_file": "emoji_13.webp",
           "emojis": ["❤"]
         },
         {
           "image_file": "emoji_14.webp",
-          "emojis": ["❤"]
-        },
-        {
-          "image_file": "emoji_15.webp",
           "emojis": ["❤"]
         },
         {
@@ -88,51 +68,67 @@
           "emojis": ["❤"]
         },
         {
-          "image_file": "Alamak.webp",
+          "image_file": "Alamak_Chipsley Generic.webp",
           "emojis": ["❤"]
         },
         {
-          "image_file": "Bubble Tea.webp",
+          "image_file": "Bubble Tea Pearl_Chipsley Generic.webp",
           "emojis": ["❤"]
         },
         {
-          "image_file": "Cry.webp",
+          "image_file": "Bubble Tea_Chipsley Generic.webp",
           "emojis": ["❤"]
         },
         {
-          "image_file": "Good Morning.webp",
+          "image_file": "Cry_Chipsley Generic.webp",
           "emojis": ["❤"]
         },
         {
-          "image_file": "Goodnight.webp",
+          "image_file": "Good Morning V1_Chipsley Generic.webp",
           "emojis": ["❤"]
         },
         {
-          "image_file": "In Love.webp",
+          "image_file": "Good Morning V2_Chipsley Generic.webp",
           "emojis": ["❤"]
         },
         {
-          "image_file": "Kiss.webp",
+          "image_file": "Goodnight_Chipsley Generic.webp",
           "emojis": ["❤"]
         },
         {
-          "image_file": "Laugh.webp",
+          "image_file": "In Love_Chipsley Generic.webp",
           "emojis": ["❤"]
         },
         {
-          "image_file": "OH NO.webp",
+          "image_file": "Kiss_Chipsley Generic.webp",
           "emojis": ["❤"]
         },
         {
-          "image_file": "Oops.webp",
+          "image_file": "Laugh_Chipsley Generic.webp",
           "emojis": ["❤"]
         },
         {
-          "image_file": "Sorry.webp",
+          "image_file": "Mischievious Chip_Chipsley Generic.webp",
           "emojis": ["❤"]
         },
         {
-          "image_file": "Super Warm.webp",
+          "image_file": "OH NO_Chipsley Generic.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "Oops_Chipsley Generic.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "Sorry_Chipsley Generic.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "Super Warm_Chipsley Generic.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "Thumbs Up_Chipsley Generic.webp",
           "emojis": ["❤"]
         }
       ]
